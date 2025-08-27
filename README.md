@@ -6,6 +6,11 @@ The tool is lightweight, extensible, and with the goal of being integrated with 
 
 ---
 
+## Prerequisites
+
+- Go 1.25 or later installed on your system.  
+  You can download Go from [https://golang.org/dl/](https://golang.org/dl/).
+
 ## Current features
 
 - Add tasks
@@ -29,6 +34,7 @@ The tool is lightweight, extensible, and with the goal of being integrated with 
 
 1. Clone the repository:  
 ```bash
+git clone https://github.com/SamoThreeSixty/job-tracking-cli
 cd job-tracker-cli
 ```
 2. Build the CLI tool:
