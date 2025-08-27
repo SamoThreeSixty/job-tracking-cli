@@ -62,7 +62,7 @@ func main() {
 }
 
 func initDb() {
-	dbPath := "./data/app.db"
+	dbPath := "../data/app.db"
 
 		// Make sure parent folder exists
 	dir := filepath.Dir(dbPath)
