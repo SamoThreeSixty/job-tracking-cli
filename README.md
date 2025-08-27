@@ -49,5 +49,5 @@ go build -o job_tracker.exe ./cmd
 
 4. (optional if windows) Add this to your bin
 ``` powershell 
-go build -o C:\Users\SamoT\go\bin\job_tracker.exe ./cmd
+go build -o C:\Users\%YOUR_USER_PROFILE%\go\bin\job_tracker.exe ./cmd
 ```
